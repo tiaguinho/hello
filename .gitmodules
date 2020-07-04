@@ -1,0 +1,3 @@
+[submodule "themes/kairos"]
+	path = themes/kairos
+	url = git@github.com:tiaguinho/hugo-kairos.git
