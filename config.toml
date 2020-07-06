@@ -8,7 +8,7 @@ paginate = 12
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = ""
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "tiagotemporin"
 
 [sitemap]
   changefreq = "monthly"
