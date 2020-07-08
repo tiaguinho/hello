@@ -47,7 +47,7 @@ disqusShortname = "ttemporin"
 [params]
     since = 2020
     author = "Tiago Temporin"               # Author's name
-    subtitle = "Hello folk's, I'm a software developer who love's coding and open source. To know more about me, please read the about page."       # Subtitle
+    subtitle = "Hello folks, I'm a software developer who love's coding and open source. To know more about me, please read the about page."       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 

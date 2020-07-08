@@ -4,20 +4,20 @@ date: 2020-07-04T14:16:13-03:00
 draft: false
 ---
 
-# Hello folk's
-I'm a software developer with more then 11 years of experience as fullstack and Devops.
+# Hello folks
+I'm a software developer with more than 11 years of experience as a fullstack and Devops.
 
 <img src="/images/me/avatar.jpeg" align="left" width="200" style="display: inline-block;margin-right: .8rem;" /> 
 
-Currently I'm working as **Tech Lead** at [E-goi](https://www.e-goi.com), one of the 50 best companies to work in Portugal. If you don't know our company, I invite you to see what we can do for you.
+Currently, I'm working as a **Tech Lead** at [E-goi](https://www.e-goi.com), one of the 50 best companies to work in Portugal. If you don't know our company, I invite you to see what we can do for you.
 
-### I love learn new things, code and contribute to open source.
+### I love to learn new things, code, and contribute to open source.
 
-I also love to read almost everything that I can put my hand on it. If you are interesting to see the things I have been reading, just click [here](/books).
+I also love to read almost everything that I can put my hands on it. If you are interested to see the things I have been reading, just click [here](/books).
 
 You can reach me on twitter at [@_ttemporin](https://twitter.com/_ttemporin) or hello[ at ]ttemporin.dev.
 
-## Some of the tecnologies that I have experience
+## Some of the technologies that I have experience with
 
 <img src="/images/tech/angular.png" width="80" alt="Angular" style="display: inline-block;margin: .5rem .8rem;" />
 <img src="/images/tech/git.png" width="80" alt="GIT" style="display: inline-block;margin: .5rem .8rem;" />
