@@ -1,7 +1,7 @@
 ---
-title: "Short Path Algorithm (Part 2)"
+title: "Shortest Path Algorithm (Part 2)"
 date: 2021-01-24T11:10:04-03:00
-description: This is the second part of a study on how short path algorithms work.
+description: This is the second part of a study on how shortest path algorithms work.
 categories: ["CS"]
 tags: ["algorithm", "python", "pillow", "study"]
 draft: false
@@ -15,7 +15,7 @@ Just to remember, this study is divided into three parts.
 
 * 1) [Draw an empty board](https://ttemporin.dev/2020/board_draw/)
 * 2) Add obstacles randomly
-* 3) Implement the short path algorithm
+* 3) Implement the shortest path algorithm
 
 The division intends to make it easier to understand and visualize the algorithm.
 

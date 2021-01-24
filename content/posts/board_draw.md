@@ -1,20 +1,20 @@
 ---
-title: "Short Path Algorithm (Part 1)"
+title: "Shortest Path Algorithm (Part 1)"
 date: 2020-08-03T08:56:04-03:00
-description: This is the first part of a study on how short path algorithms work.
+description: This is the first part of a study on how shortest path algorithms work.
 categories: ["CS"]
 tags: ["algorithm", "python", "pillow", "study"]
 draft: false
 ---
 
-# Short Path Algorithm (Part 1)
+# Shortest Path Algorithm (Part 1)
 
-This is the first part of a study on how short path algorithms work.
+This is the first part of a study on how shortest path algorithms work.
 This study is divided into three parts.
 
 * 1) Draw an empty board
 * 2) Add obstacles randomly
-* 3) Implement the short path algorithm
+* 3) Implement the shortest path algorithm
 
 The division intends to make it easier to understand and visualize the algorithm.
 
