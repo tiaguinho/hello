@@ -1,5 +1,5 @@
 ---
-title: "Shot Path Algorithm (Part 1)"
+title: "Short Path Algorithm (Part 1)"
 date: 2020-08-03T08:56:04-03:00
 description: This is the first part of a study on how short path algorithms work.
 categories: ["CS"]
